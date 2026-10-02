@@ -1,0 +1,18 @@
+{
+  "model": "Logistic Regression + TF-IDF",
+  "test_samples": 8938,
+  "accuracy": 0.9854553591407473,
+  "precision": 0.9854914239183092,
+  "recall": 0.9854553591407473,
+  "f1": 0.98545155468314,
+  "confusion_matrix": [
+    [
+      4652,
+      44
+    ],
+    [
+      86,
+      4156
+    ]
+  ]
+}
